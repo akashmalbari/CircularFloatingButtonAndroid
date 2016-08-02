@@ -80,6 +80,3 @@ You can write your own animation handler class by extending from `MenuAnimationH
 Then all you need is to create an instance of your custom animation handler and pass it to `FloatingActionMenu.Builder` via `setAnimationHandler( )` method.
 
 See `CustomAnimationHandler` in **samples** module for a sample animation handler.
-
-## Licence
-CircularFloatingActionMenu is released under MIT Licence. See file LICENCE.
